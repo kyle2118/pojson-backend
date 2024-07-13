@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: pojson
+
+server:
+  port: 8088
+  servlet:
+    context-path: /pojson
